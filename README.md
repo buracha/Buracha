@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jadson
  
-- 🌱 Cursando o ensino médio
+- 🌱 Estudando front-end e back-end
 - 😄 Pronouns: ele/dele
 
 <div align="center">
