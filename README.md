@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jadson
  
-- 🌱 Estudando front-end e back-end
+- 🌱 Estudando Full Stack
 - 😄 Pronouns: ele/dele
 
 <div align="center">
