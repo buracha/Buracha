@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Jadson
  
 - 🌱 Estudando Full Stack 
+- ⚡ A procura do desconhecido
 
 <div align="center">
   <a href="https://github.com/buracha">
