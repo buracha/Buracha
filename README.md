@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Jadson
  
 - 🌱 Estudando Full Stack
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/buracha">
