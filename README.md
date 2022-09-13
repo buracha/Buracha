@@ -4,7 +4,7 @@
 - ⚡ A procura do desconhecido
 
 <div>
-  <a href="https://beacons.ai/Jadson">
+  <a href="https://beacons.ai/Buracha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buracha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buracha&layout=compact&langs_count=16&theme=dark"/>
 </div>
